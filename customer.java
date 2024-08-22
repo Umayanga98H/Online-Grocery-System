@@ -18,7 +18,8 @@ public class customer {
 
     //print user details that user entered to system
     public void printdetails(){
-        System.out.println("Customer Name :"+cusName+"\nId Number     :"+idNumber+"\nPostal Address:"+address+"\nEmail Address :"+emailAddress+"\nContact Number:0"+contactNumber);
+        System.out.println("Customer Name :"+cusName+"\nId Number     :"+idNumber+"\nPostal Address:"+address+"\nEmail Address :"
+                           +emailAddress+"\nContact Number:0"+contactNumber);
     }
 
     public static void main(String[] args) {
